@@ -31,6 +31,9 @@ pip install dnspython requests rich
 
 1. Clone the repository or navigate to the tool directory:
    ```bash
+   git clone https://github.com/Youssefmohi666/subdomain-finder/
+   ```
+   ```bash
    cd tools/subdomain-finder
    ```
 2. Ensure you have a `wordlist.txt` in the same directory (optional, but recommended).
