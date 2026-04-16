@@ -1,6 +1,6 @@
 # Zero Byte Subdomain Discovery Tool
 
-![Zero Byte Banner](https://img.shields.io/badge/Zero%20Byte-Subdomain%20Finder-cyan?style=for-the-badge&logo=python)
+![Zero-Byte Banner](https://img.shields.io/badge/Zero%20Byte-Subdomain%20Finder-cyan?style=for-the-badge&logo=python)
 
 A professional, high-performance subdomain discovery tool developed by **Yusef Mohey** as part of the Zero Byte Cybersecurity project. This tool uses DNS resolution to identify live subdomains for a target domain, providing a clean and intuitive CLI interface with real-time feedback.
 
