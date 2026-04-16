@@ -1,4 +1,0 @@
-sub
-api
-admin
-admin123
