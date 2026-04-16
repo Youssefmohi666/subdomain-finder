@@ -1,0 +1,9 @@
+requests
+rich
+subprocess
+dnspython
+argparse
+sys
+threading
+time
+os
